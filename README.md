@@ -1,1 +1,2 @@
 # 10862595_Reserach-assignment
+Technically, both percentages and fixed-units are clutches used to resize elements in web development even though they have individual influences. Percentages are relative units that are naturally based on its parents magnitude and the viewpoint dimensions. Its scalability is also based on the device type. Fixed units in contrast are absolute clutches that do not rely their magnitude on anything else but real measurements
